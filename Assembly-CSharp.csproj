@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{62947101-8E68-F025-4640-56228C3E4CFD}</ProjectGuid>
+    <ProjectGuid>{466F265D-57FC-3F05-0A9A-D019B5B41BE7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -66,42 +66,43 @@
     <Compile Include="Assets\Scripts\CandyScript.cs" />
     <Compile Include="Assets\Scripts\CoinScript.cs" />
     <Compile Include="Assets\Scripts\DangerScript.cs" />
+    <Compile Include="Assets\Scripts\FightersScript.cs" />
     <Compile Include="Assets\Scripts\HealthScript.cs" />
     <Compile Include="Assets\Scripts\MissileScript.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\Scripts\ScoreScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/AssignmentUnity/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/pramod/Documents/MDEV/Sem2/MobileGameDesign/Repo/MySanta/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2019.2.4f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
