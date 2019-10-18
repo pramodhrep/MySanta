@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{62947101-8E68-F025-4640-56228C3E4CFD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CoinScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CoinScript.cs" Line="8" Column="26" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="99" Column="1" />
+      <File FileName="Assets/Scripts/BombScript.cs" Line="24" Column="33" />
+      <File FileName="Assets/Scripts/CandyScript.cs" Line="26" Column="10" />
+      <File FileName="Assets/Scripts/MissileScript.cs" Line="7" Column="28" />
+      <File FileName="Assets/Scripts/CameraControl.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/HealthScript.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssignmentUnity" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CoinScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e45acdf3-ba1c-4eac-964c-b69b6dbeecc6" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
